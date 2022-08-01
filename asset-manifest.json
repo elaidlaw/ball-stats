@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ball-stats/static/css/main.073c9b0a.css",
+    "main.js": "/ball-stats/static/js/main.b56d03ec.js",
+    "static/js/787.6c91c18d.chunk.js": "/ball-stats/static/js/787.6c91c18d.chunk.js",
+    "static/media/logo.svg": "/ball-stats/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ball-stats/index.html",
+    "main.073c9b0a.css.map": "/ball-stats/static/css/main.073c9b0a.css.map",
+    "main.b56d03ec.js.map": "/ball-stats/static/js/main.b56d03ec.js.map",
+    "787.6c91c18d.chunk.js.map": "/ball-stats/static/js/787.6c91c18d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b56d03ec.js"
+  ]
+}
