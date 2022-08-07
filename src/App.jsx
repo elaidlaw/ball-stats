@@ -330,7 +330,7 @@ export default class App extends React.Component {
 
     var getBgColor = (val, cmap) => {
       if (!cmap) return null;
-      var index = Math.floor(cmap.colors.length * (val - .0001 - cmap.min) / (cmap.max - cmap.min));
+      var index = Math.max(0, Math.floor(cmap.colors.length * (val - .0002 - cmap.min) / (cmap.max - cmap.min)));
       return cmap.colors[cmap.reverse ? cmap.colors.length - 1 - index : index];
     }
 
